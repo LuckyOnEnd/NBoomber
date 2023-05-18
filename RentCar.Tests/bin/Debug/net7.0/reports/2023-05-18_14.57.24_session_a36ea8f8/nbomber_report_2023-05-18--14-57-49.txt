@@ -1,0 +1,41 @@
+test info
+test suite: nbomber_default_test_suite_name
+test name: nbomber_default_test_name
+session id: 2023-05-18_14.57.24_session_a36ea8f8
+
+scenario: Videos API fetch
+  - ok count: 9714
+  - fail count: 0
+  - all data: 1.8 MB
+  - duration: 00:00:05
+
+load simulations: 
+  - keep_constant, copies: 1000, during: 00:00:05
+
+step: get cars
+  - timeout: 5000 ms
+  - client factory: nbomber_http_factory, clients: 1
+  - data feed: none
+
++--------------------+---------------------------------------------------------------+
+| step               | ok stats                                                      |
++--------------------+---------------------------------------------------------------+
+| name               | get cars                                                      |
++--------------------+---------------------------------------------------------------+
+| request count      | all = 9714, ok = 9714, RPS = 1942.8                           |
++--------------------+---------------------------------------------------------------+
+| latency            | min = 33.36, mean = 508.26, max = 1365.51, StdDev = 233.38    |
++--------------------+---------------------------------------------------------------+
+| latency percentile | p50 = 473.34, p75 = 516.86, p95 = 1123.33, p99 = 1274.88      |
++--------------------+---------------------------------------------------------------+
+| data transfer      | min = 0.187 KB, mean = 0.187 KB, max = 0.187 KB, all = 1.8 MB |
++--------------------+---------------------------------------------------------------+
+
+status codes for scenario: Videos API fetch
++-------------+-------+---------+
+| status code | count | message |
++-------------+-------+---------+
+| 200         | 9714  |         |
++-------------+-------+---------+
+
+

@@ -1,0 +1,2 @@
+test_suite,test_name,scenario,duration,step_name,request_count,ok,failed,rps,min,mean,max,50_percent,75_percent,95_percent,99_percent,std_dev,data_transfer_min_kb,data_transfer_mean_kb,data_transfer_max_kb,data_transfer_all_mb
+nbomber_default_test_suite_name,nbomber_default_test_name,Videos API fetch,00:00:05,get cars,18640,18640,0,3728,3.9,26.81,509.76,23.66,30.48,46.5,81.6,19.55,0.187,0.187,0.187,3.4

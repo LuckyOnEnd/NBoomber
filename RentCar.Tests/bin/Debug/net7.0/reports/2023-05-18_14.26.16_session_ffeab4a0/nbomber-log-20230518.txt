@@ -1,0 +1,117 @@
+2023-05-18 16:26:43.257 +02:00 [INF] [ThreadId:16] NBomber 3.3.0 Started a new session: 2023-05-18_14.26.16_session_ffeab4a0
+2023-05-18 16:26:43.451 +02:00 [INF] [ThreadId:16] NBomber started as single node
+2023-05-18 16:26:43.541 +02:00 [INF] [ThreadId:16] Plugins: no plugins were loaded
+2023-05-18 16:26:43.548 +02:00 [INF] [ThreadId:16] Reporting sinks: no reporting sinks were loaded
+2023-05-18 16:26:43.548 +02:00 [INF] [ThreadId:16] Starting init...
+2023-05-18 16:26:43.550 +02:00 [INF] [ThreadId:16] Initializing scenarios...
+2023-05-18 16:26:43.568 +02:00 [INF] [ThreadId:9] Target scenarios: Videos API fetch
+2023-05-18 16:26:43.582 +02:00 [INF] [ThreadId:9] Start init client factory: [lime]nbomber_http_factory@Videos API fetch[/], client count: [deepskyblue1]1[/]
+2023-05-18 16:26:43.601 +02:00 [INF] [ThreadId:9] Init finished
+2023-05-18 16:26:43.605 +02:00 [INF] [ThreadId:9] Starting warm up...
+2023-05-18 16:26:48.633 +02:00 [INF] [ThreadId:26] Starting bombing...
+2023-05-18 16:26:50.224 +02:00 [FTL] [ThreadId:45] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.224 +02:00 [FTL] [ThreadId:10] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.224 +02:00 [FTL] [ThreadId:24] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.224 +02:00 [FTL] [ThreadId:47] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.224 +02:00 [FTL] [ThreadId:39] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.224 +02:00 [FTL] [ThreadId:44] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.225 +02:00 [FTL] [ThreadId:43] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.225 +02:00 [FTL] [ThreadId:26] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.224 +02:00 [FTL] [ThreadId:22] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.226 +02:00 [FTL] [ThreadId:40] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.226 +02:00 [FTL] [ThreadId:42] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.226 +02:00 [FTL] [ThreadId:27] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.227 +02:00 [FTL] [ThreadId:33] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.227 +02:00 [FTL] [ThreadId:46] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.227 +02:00 [FTL] [ThreadId:41] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.228 +02:00 [FTL] [ThreadId:38] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.228 +02:00 [FTL] [ThreadId:9] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.230 +02:00 [FTL] [ThreadId:25] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.266 +02:00 [FTL] [ThreadId:42] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.267 +02:00 [FTL] [ThreadId:45] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.267 +02:00 [FTL] [ThreadId:47] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.267 +02:00 [FTL] [ThreadId:22] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.267 +02:00 [FTL] [ThreadId:46] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.267 +02:00 [FTL] [ThreadId:38] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.267 +02:00 [FTL] [ThreadId:27] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.267 +02:00 [FTL] [ThreadId:41] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.268 +02:00 [FTL] [ThreadId:9] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.268 +02:00 [FTL] [ThreadId:42] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.268 +02:00 [FTL] [ThreadId:25] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.268 +02:00 [FTL] [ThreadId:45] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.268 +02:00 [FTL] [ThreadId:39] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.268 +02:00 [FTL] [ThreadId:10] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.269 +02:00 [FTL] [ThreadId:47] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.269 +02:00 [FTL] [ThreadId:24] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.268 +02:00 [FTL] [ThreadId:26] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.269 +02:00 [FTL] [ThreadId:46] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.269 +02:00 [FTL] [ThreadId:9] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.269 +02:00 [FTL] [ThreadId:38] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.269 +02:00 [FTL] [ThreadId:25] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.270 +02:00 [FTL] [ThreadId:27] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.270 +02:00 [FTL] [ThreadId:42] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.270 +02:00 [FTL] [ThreadId:47] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.270 +02:00 [FTL] [ThreadId:39] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.270 +02:00 [FTL] [ThreadId:45] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.270 +02:00 [FTL] [ThreadId:10] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.270 +02:00 [FTL] [ThreadId:26] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.270 +02:00 [FTL] [ThreadId:24] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.271 +02:00 [FTL] [ThreadId:9] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.271 +02:00 [FTL] [ThreadId:46] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.271 +02:00 [FTL] [ThreadId:25] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.271 +02:00 [FTL] [ThreadId:47] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.271 +02:00 [FTL] [ThreadId:27] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.271 +02:00 [FTL] [ThreadId:39] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.271 +02:00 [FTL] [ThreadId:42] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.271 +02:00 [FTL] [ThreadId:45] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.271 +02:00 [FTL] [ThreadId:38] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.272 +02:00 [FTL] [ThreadId:10] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.272 +02:00 [FTL] [ThreadId:25] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.272 +02:00 [FTL] [ThreadId:9] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.272 +02:00 [FTL] [ThreadId:39] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.272 +02:00 [FTL] [ThreadId:46] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.273 +02:00 [FTL] [ThreadId:42] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.273 +02:00 [FTL] [ThreadId:45] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.273 +02:00 [FTL] [ThreadId:38] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.273 +02:00 [FTL] [ThreadId:9] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.272 +02:00 [FTL] [ThreadId:24] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.273 +02:00 [FTL] [ThreadId:25] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.273 +02:00 [FTL] [ThreadId:39] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.273 +02:00 [FTL] [ThreadId:10] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.274 +02:00 [FTL] [ThreadId:46] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.274 +02:00 [FTL] [ThreadId:42] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.274 +02:00 [FTL] [ThreadId:45] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.274 +02:00 [FTL] [ThreadId:9] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.274 +02:00 [FTL] [ThreadId:38] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.274 +02:00 [FTL] [ThreadId:39] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.274 +02:00 [FTL] [ThreadId:25] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.275 +02:00 [FTL] [ThreadId:24] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.275 +02:00 [FTL] [ThreadId:42] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.275 +02:00 [FTL] [ThreadId:45] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.275 +02:00 [FTL] [ThreadId:38] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.275 +02:00 [FTL] [ThreadId:9] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.275 +02:00 [FTL] [ThreadId:25] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.275 +02:00 [FTL] [ThreadId:39] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.275 +02:00 [FTL] [ThreadId:24] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.276 +02:00 [FTL] [ThreadId:40] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.276 +02:00 [FTL] [ThreadId:38] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.276 +02:00 [FTL] [ThreadId:45] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.276 +02:00 [FTL] [ThreadId:25] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.276 +02:00 [FTL] [ThreadId:9] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.276 +02:00 [FTL] [ThreadId:39] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.276 +02:00 [FTL] [ThreadId:33] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.277 +02:00 [FTL] [ThreadId:41] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.277 +02:00 [FTL] [ThreadId:27] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.277 +02:00 [FTL] [ThreadId:44] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.277 +02:00 [FTL] [ThreadId:22] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.277 +02:00 [FTL] [ThreadId:46] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.277 +02:00 [FTL] [ThreadId:47] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.278 +02:00 [FTL] [ThreadId:26] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.278 +02:00 [FTL] [ThreadId:43] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:50.278 +02:00 [FTL] [ThreadId:42] Step 'get cars' from Scenario: 'Videos API fetch' has failed. Error: 
+2023-05-18 16:26:56.668 +02:00 [INF] [ThreadId:43] Stopping scenarios...
+2023-05-18 16:26:56.675 +02:00 [INF] [ThreadId:43] Cleaning scenarios...
+2023-05-18 16:26:56.688 +02:00 [INF] [ThreadId:43] Start dispose client factory: nbomber_http_factory@Videos API fetch
+2023-05-18 16:26:56.696 +02:00 [INF] [ThreadId:20] Calculating final statistics...
+2023-05-18 16:26:57.035 +02:00 [WRN] [ThreadId:15] Test finished with errors, please check the log file
+2023-05-18 16:26:57.052 +02:00 [INF] [ThreadId:15] Reports saved in folder: C:\Users\Viacheslav Trus\source\repos\RentCar.API\RentCar.Tests\bin\Debug\net7.0\reports\2023-05-18_14.26.16_session_ffeab4a0

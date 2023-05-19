@@ -1,0 +1,10 @@
+2023-05-19 14:41:01.369 +03:00 [INF] [ThreadId:15] NBomber 3.3.0 Started a new session: 2023-05-19_11.41.27_session_ade4bc9e
+2023-05-19 14:41:01.479 +03:00 [INF] [ThreadId:15] NBomber started as single node
+2023-05-19 14:41:01.550 +03:00 [INF] [ThreadId:15] Plugins: no plugins were loaded
+2023-05-19 14:41:01.551 +03:00 [INF] [ThreadId:15] Reporting sinks: no reporting sinks were loaded
+2023-05-19 14:41:01.552 +03:00 [INF] [ThreadId:15] Starting init...
+2023-05-19 14:41:01.553 +03:00 [INF] [ThreadId:15] Initializing scenarios...
+2023-05-19 14:41:01.570 +03:00 [INF] [ThreadId:9] Target scenarios: Videos API fetch
+2023-05-19 14:41:01.584 +03:00 [INF] [ThreadId:9] Start init client factory: [lime]nbomber_http_factory@Videos API fetch[/], client count: [deepskyblue1]1[/]
+2023-05-19 14:41:01.598 +03:00 [INF] [ThreadId:9] Init finished
+2023-05-19 14:41:01.603 +03:00 [INF] [ThreadId:9] Starting warm up...

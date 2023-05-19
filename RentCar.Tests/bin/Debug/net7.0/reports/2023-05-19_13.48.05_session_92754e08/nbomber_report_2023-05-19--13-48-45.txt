@@ -1,0 +1,41 @@
+test info
+test suite: nbomber_default_test_suite_name
+test name: nbomber_default_test_name
+session id: 2023-05-19_13.48.05_session_92754e08
+
+scenario: Cars API test
+  - ok count: 33995
+  - fail count: 0
+  - all data: 6.2 MB
+  - duration: 00:00:05
+
+load simulations: 
+  - keep_constant, copies: 100, during: 00:00:05
+
+step: get cars
+  - timeout: 5000 ms
+  - client factory: nbomber_http_factory, clients: 1
+  - data feed: none
+
++--------------------+---------------------------------------------------------------+
+| step               | ok stats                                                      |
++--------------------+---------------------------------------------------------------+
+| name               | get cars                                                      |
++--------------------+---------------------------------------------------------------+
+| request count      | all = 33995, ok = 33995, RPS = 6799                           |
++--------------------+---------------------------------------------------------------+
+| latency            | min = 1.61, mean = 14.69, max = 67.91, StdDev = 4.83          |
++--------------------+---------------------------------------------------------------+
+| latency percentile | p50 = 14.07, p75 = 17.04, p95 = 23.14, p99 = 30.69            |
++--------------------+---------------------------------------------------------------+
+| data transfer      | min = 0.187 KB, mean = 0.187 KB, max = 0.187 KB, all = 6.2 MB |
++--------------------+---------------------------------------------------------------+
+
+status codes for scenario: Cars API test
++-------------+-------+---------+
+| status code | count | message |
++-------------+-------+---------+
+| 200         | 33995 |         |
++-------------+-------+---------+
+
+
